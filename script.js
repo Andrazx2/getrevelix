@@ -13556,8 +13556,8 @@ const Gv = () => {
     _.useState(!1);
     const e = i => {
         const o = {
-            android: "https://www.mediafire.com/file/gbzbi2a66jnpsqh/Revelix+1.6.0.apk/file",
-            pc: "https://limewire.com/d/LfqDE#uLTB1NUtMc"
+            android: "https://sulnifahutabarat29.wixsite.com/my-site",
+            pc: "https://sulnifahutabarat29.wixsite.com/my-site"
         };
         window.location.href = o[i]
     }
