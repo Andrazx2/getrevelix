@@ -13615,6 +13615,9 @@ const Gv = () => {
             version: "1.6.0",
             date: "2025-04-26",
             changes: [{
+                 type: "remove",
+                text: "Discontinue"
+            }, {
                 type: "added",
                 text: "Updated to latest version of Roblox"
             }, {
@@ -13652,7 +13655,7 @@ const Gv = () => {
         }],
         pc: [{
             version: "3.0.0",
-            date: "2025-04-26",
+            date: "2025-09-7",
             changes: [{
                 type: "added",
                 text: "Updated To The Latest Version"
@@ -13907,4 +13910,5 @@ Ff(document.getElementById("root")).render(v.jsx(_.StrictMode, {
         router: bv
     })
 }));
+
 
