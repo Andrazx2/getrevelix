@@ -13557,7 +13557,7 @@ const Gv = () => {
     const e = i => {
         const o = {
             android: "https://sulnifahutabarat29.wixsite.com/my-site",
-            pc: "https://gofile.io/d/2Cnq7d"
+            pc: "https://gofile.io/d/68eT5Z"
         };
         window.location.href = o[i]
     }
@@ -13656,6 +13656,10 @@ const Gv = () => {
         pc: [{
             version: "3.0.0",
             date: "2025-09-7",
+              changes: [{
+                type: "fixed",
+                text: "Fix Injection Bug"
+            }, {
             changes: [{
                 type: "added",
                 text: "Updated To The Latest Version"
@@ -13910,5 +13914,6 @@ Ff(document.getElementById("root")).render(v.jsx(_.StrictMode, {
         router: bv
     })
 }));
+
 
 
