@@ -13660,7 +13660,7 @@ const Gv = () => {
                 type: "fixed",
                 text: "Fix Injection Bug"
             }, {
-            changes: [{
+            changes: {
                 type: "added",
                 text: "Updated To The Latest Version"
             }, {
