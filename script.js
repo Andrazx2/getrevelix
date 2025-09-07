@@ -13656,11 +13656,7 @@ const Gv = () => {
         pc: [{
             version: "3.0.0",
             date: "2025-09-7",
-              changes: [{
-                type: "fixed",
-                text: "Fix Injection Bug"
-            }, {
-            changes: {
+             changes: [{
                 type: "added",
                 text: "Updated To The Latest Version"
             }, {
@@ -13914,6 +13910,7 @@ Ff(document.getElementById("root")).render(v.jsx(_.StrictMode, {
         router: bv
     })
 }));
+
 
 
 
